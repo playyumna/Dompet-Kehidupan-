@@ -1,0 +1,9 @@
+{
+  "name": "Dompet Kehidupan",
+  "short_name": "Dompet",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f3ed",
+  "theme_color": "#f5eee5",
+  "description": "Pembukuan keuangan pribadi offline"
+}

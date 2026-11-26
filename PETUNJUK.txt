@@ -1,0 +1,18 @@
+DOMPET KEHIDUPAN - DATA LENGKAP
+Saldo awal: Rp41.185.958
+Jumlah transaksi dimuat: 72
+Total pemasukan: Rp12,403,624
+Total pengeluaran: Rp37,724,300
+Saldo akhir hasil perhitungan: Rp15,865,282
+
+Catatan:
+- Pengambilan Rp5.500.000 tanggal 23 Oktober dimasukkan sebagai pengeluaran dan pengembalian dengan nominal sama agar jejak koreksinya terlihat.
+- Transaksi Rp200.000 Mamah dan Rp100.000 jamiahan ditempatkan pada 2 November mengikuti tanggal pembaruan saldo.
+
+Pemasangan Android:
+1. Unggah isi folder ini ke hosting HTTPS.
+2. Buka alamat HTTPS di Chrome Android.
+3. Pilih menu Chrome > Install app / Tambahkan ke layar utama.
+4. Buka pertama kali saat online; setelah itu aplikasi bisa digunakan offline.
+
+Data tersimpan di browser/perangkat. Ekspor backup berkala. Sinkronisasi cloud otomatis belum tersedia.
